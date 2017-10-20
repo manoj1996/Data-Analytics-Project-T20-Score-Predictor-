@@ -1,0 +1,3 @@
+The Number Crunchers
+
+Our model gives the estimated team score and wickets at the end of every over set(4 overs interval). Input1.txt contains the first team's playing 11 followed by the bowlers of the opposition.The last line contains the name of the stadium in which the match is played.Input2.txt contains the second team's(opponents) playing 11 players followed by the bowlers of the other team.It must also contain the name of the stadium as the last line. The model takes into consideration the current playing batsmen dynamically. Run the UserInput.py script file to get the output. This file generates the dictionary of all the batsmen,bowlers and stadium ratings. UserInput.py gives the team's score and wickets at the end of every set. 
